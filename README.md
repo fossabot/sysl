@@ -3,6 +3,7 @@
 [![GitHub Actions Go-Darwin status](https://github.com/anz-bank/sysl/workflows/Go-Darwin/badge.svg)](.)
 [![GitHub Actions Go-Linux status](https://github.com/anz-bank/sysl/workflows/Go-Linux/badge.svg)](.)
 [![GitHub Actions node-linux status](https://github.com/anz-bank/sysl/workflows/node-linux/badge.svg)](.)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FChloePlanet%2Fsysl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FChloePlanet%2Fsysl?ref=badge_shield)
 
 
 [![AppVeyor build](https://img.shields.io/appveyor/ci/anz-bank/sysl/master.svg?logo=appveyor)](https://ci.appveyor.com/project/anz-bank/sysl/branch/master)
@@ -67,3 +68,7 @@ diagrams, source code, views, integrations or other desired outputs.
 
 Sysl is currently targeted at early adopters. The current focus is to improve
 documentation and usability, especially error messages and warnings.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FChloePlanet%2Fsysl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FChloePlanet%2Fsysl?ref=badge_large)
